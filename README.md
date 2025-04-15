@@ -16,4 +16,4 @@
 | Java      | ⭐⭐      |
 | Node.JS   | ⭐⭐      |
 | HTML      | ⭐⭐      |
-| GO        | ⭐         |
+| Golang       | ⭐         |
