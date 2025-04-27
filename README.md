@@ -8,12 +8,14 @@
 
 ## 🧠 Languages & Proficiency
 
-⭐⭐⭐ Proficient | ⭐⭐ Intermediate | ⭐ Novice
+⭐⭐⭐⭐ Pro | ⭐⭐⭐ Proficient | ⭐⭐ Intermediate | ⭐ Novice
 
 | Language  | Proficiency |
 |-----------|-------------|
-| Lua       | ⭐⭐      |
+| Lua       | ⭐⭐⭐      |
 | Java      | ⭐⭐      |
 | Node.JS   | ⭐⭐      |
 | HTML      | ⭐⭐      |
+| Python     | ⭐⭐      |
 | Golang       | ⭐⭐         |
+| CSS      | ⭐      |
